@@ -1,6 +1,6 @@
 # Travel-Companion
 
-Introduction: 
+### Introduction: 
 
 
 In this project we want to develop an application that can be used for planning user trip. With the help of this application user can search for different location and get information about the places and their features. 
